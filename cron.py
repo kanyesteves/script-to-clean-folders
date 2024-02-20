@@ -1,6 +1,6 @@
 import os
 
-types = ['docx', 'zip', 'pdf', 'deb', 'mp3', 'csv', 'tar', 'gz', 'txt']
+types = ['py', 'pyc', 'xlsx', 'docx', 'zip', 'pdf', 'deb', 'mp3', 'csv', 'tar', 'gz', 'txt']
 
 base_path = os.path.expanduser('~')
 path = os.path.join(base_path, 'Downloads')
